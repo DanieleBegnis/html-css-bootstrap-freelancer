@@ -4,7 +4,11 @@
 .ms-bg-mint {
     background-color: #1abc9c;
 }
-.ms-btn-green {
+.ms-btn-white {
     color: #fff;
     border: 1px solid #fff;
+}
+.ms-btn-green {
+    color: #fff;
+    background-color: #1abc9c;
 }
