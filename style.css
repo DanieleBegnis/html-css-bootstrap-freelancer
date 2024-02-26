@@ -25,3 +25,8 @@
 .ms-bg-black {
     background-color: #000;
 }
+.ms-input-form input{
+    border: none;
+    border-bottom: 1px solid gray;
+    border-radius: 0;
+}
