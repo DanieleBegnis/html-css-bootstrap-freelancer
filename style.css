@@ -15,3 +15,8 @@
 .ms-bg-petrol {
     background-color: #3a546d;
 }
+.star-line { 
+    height: 4px;
+    background-color: #fff;
+    width: 15%;
+}
